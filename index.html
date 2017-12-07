@@ -91,6 +91,9 @@
       <div class="col-md-10">
       </div>
     </div>
+    <div class="row" v-if="!content.realmName">
+      No data found for the selected version and class.
+    </div>
     <div class="row" v-if="content.realmName">
       <div class="col-md-2 panel panel-default" style="margin-right: 5px">
         <div class="row">
