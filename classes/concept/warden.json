@@ -299,7 +299,7 @@
                 {
                   "name": "Taunt",
                   "skills": [
-                    { "level": 10, "name": "Taunt" },
+                    { "level": 10, "name": "Taunt" }
                   ]
                 },
                 {
