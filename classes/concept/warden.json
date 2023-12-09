@@ -18,6 +18,7 @@
             { "level": 1, "name": "Blades" },
             { "level": 1, "name": "Blunt" },
             { "level": 1, "name": "Parry" },
+            { "level": 1, "name": "Tireless" },
             { "level": 5, "name": "Regrowth Spec" },
             { "level": 5, "name": "Nurture Spec" },
             { "level": 5, "name": "Guardian Spec" },
