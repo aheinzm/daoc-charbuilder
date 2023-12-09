@@ -282,13 +282,16 @@
                 {
                   "name": "Guardian Abilities",
                   "skills": [
-                    { "level": 5, "name": "Guard I" },
+                    { "level": 5, "name": "Guard" },
+                    { "level": 7, "name": "Protect" },
                     { "level": 10, "name": "Taunt" },
                     { "level": 15, "name": "Guard II" },
+                    { "level": 17, "name": "Protect II" },
                     { "level": 20, "name": "Intercept" },
                     { "level": 25, "name": "Guard III" },
-                    { "level": 35, "name": "Guard IV" },
-                    { "level": 45, "name": "Guard V" },
+                    { "level": 27, "name": "Protect III" },
+                    { "level": 30, "name": "Engage" },
+                    { "level": 35, "name": "Guard IV" }
                   ]
                 },
                 {
