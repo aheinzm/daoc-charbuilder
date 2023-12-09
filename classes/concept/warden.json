@@ -280,18 +280,32 @@
               "points": 1,
               "spec_skills": [
                 {
-                  "name": "Guardian Abilities",
+                  "name": "Guard",
                   "skills": [
                     { "level": 5, "name": "Guard" },
-                    { "level": 7, "name": "Protect" },
-                    { "level": 10, "name": "Taunt" },
                     { "level": 15, "name": "Guard II" },
-                    { "level": 17, "name": "Protect II" },
-                    { "level": 20, "name": "Intercept" },
                     { "level": 25, "name": "Guard III" },
-                    { "level": 27, "name": "Protect III" },
-                    { "level": 30, "name": "Engage" },
                     { "level": 35, "name": "Guard IV" }
+                  ]
+                },
+                {
+                  "name": "Protect",
+                  "skills": [
+                    { "level": 7, "name": "Protect" },
+                    { "level": 17, "name": "Protect II" },
+                    { "level": 27, "name": "Protect III" }
+                  ]
+                },
+                {
+                  "name": "Taunt",
+                  "skills": [
+                    { "level": 10, "name": "Taunt" },
+                  ]
+                },
+                {
+                  "name": "Engage",
+                  "skills": [
+                    { "level": 30, "name": "Engage" }
                   ]
                 },
                 {
