@@ -247,7 +247,7 @@
             fetchData: function () { 
                 var vm = this;
 
-                axios.get('/classes/'+this._version.toLowerCase()+'/'+this._class.toLowerCase()+'.json')
+                axios.get('classes/'+this._version.toLowerCase()+'/'+this._class.toLowerCase()+'.json')
                 .then(function (response) {
                   vm.content = response.data;
                 })
